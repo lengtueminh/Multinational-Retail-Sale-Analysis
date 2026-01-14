@@ -29,7 +29,7 @@ Product Trends: Video Games and Consoles lead in total profit, though some categ
 
 Dashboard Structure
 Sales Overview: High-level KPIs and global distribution.
-
+![alt text](image.png)
 Product Analysis: Product line performance and market positioning.
 
 Regional Analysis: Deep-dive into country-level metrics.
